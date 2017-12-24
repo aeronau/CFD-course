@@ -1,0 +1,1 @@
+./vanilla_linux 0 32 .1 1 1000 .1 1000 /tmp |grep errmax|tail -1|cut -d"=" -f4
